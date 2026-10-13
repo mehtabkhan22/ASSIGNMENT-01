@@ -3,8 +3,8 @@
 **Course:** Software Construction
 **Instructor:** Engr. Rizwan Shah
 **Institution:** University of Engineering and Technology, Abbottabad Campus
-**Student Name:** [Your Name]
-**Registration No:** [Your Reg No]
+**Student Name:**       Muhammad Mehtab
+**Registration No:** 24ABSWE0018
 **Deadline:** 27-Sep-2026
 
 ---
